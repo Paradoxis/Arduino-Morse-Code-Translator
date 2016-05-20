@@ -9,5 +9,5 @@ This application was written as part of a college assignment.
   * Morse standards: https://en.wikipedia.org/wiki/Morse_code
 
 # Credits
-* Luke Paris
+* [Luke Paris](https://www.linkedin.com/in/paradoxis)
 * Glenn van Driel
